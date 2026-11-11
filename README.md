@@ -8,6 +8,6 @@ Submitted by 108817
   Picture ressource, used in Pandas.ipynb
 - #### \dist 
     #### - Pandas.html
-      Pandas.ipynb converts to html
+    Pandas.ipynb converts to html
     #### - Pandas.webp
-      Picture ressource, used in Pandas.html
+    Picture ressource, used in Pandas.html
